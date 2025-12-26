@@ -1,0 +1,6 @@
+@FinWise.API_HostAddress = http://localhost:5171
+
+GET {{FinWise.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
