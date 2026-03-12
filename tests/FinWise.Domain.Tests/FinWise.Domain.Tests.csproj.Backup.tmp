@@ -18,8 +18,4 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\FinWise.Domain\FinWise.Domain.csproj" />
-  </ItemGroup>
-
 </Project>
